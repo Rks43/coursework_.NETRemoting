@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\bin\Debug\Object.dll
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\bin\Debug\Object.pdb
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.dll
+C:\Users\User\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.pdb
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\bin\Debug\Object.dll
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\bin\Debug\Object.pdb
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.csproj.AssemblyReference.cache
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.csproj.CoreCompileInputs.cache
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.dll
+D:\Desktop\КАИ\3 курс\2 семак\ТП\Курсач\Моё\Код\Login\Object\obj\Debug\Object.pdb

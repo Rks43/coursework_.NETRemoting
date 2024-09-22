@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65D601-1E5C-4279-B7DD-599542F1EF6F}|Object\\Object.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\object\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65D601-1E5C-4279-B7DD-599542F1EF6F}|Object\\Object.csproj|solutionrelative:object\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C65D601-1E5C-4279-B7DD-599542F1EF6F}|Object\\Object.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\object\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C65D601-1E5C-4279-B7DD-599542F1EF6F}|Object\\Object.csproj|solutionrelative:object\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\kursovoy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|solutionrelative:kursovoy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\kursovoy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|solutionrelative:kursovoy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\kursovoy\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|solutionrelative:kursovoy\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WebApplication6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\kursovoy\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB604E93-6472-43FA-8024-247C752625EB}|Kursovoy\\Kursovoy.csproj|solutionrelative:kursovoy\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\webapp\\webapplication6\\deafult.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|solutionrelative:webapp\\webapplication6\\deafult.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\webapp\\webapplication6\\deafult.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|solutionrelative:webapp\\webapplication6\\deafult.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\webapp\\webapplication6\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|solutionrelative:webapp\\webapplication6\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\webapp\\webapplication6\\deafult.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|solutionrelative:webapp\\webapplication6\\deafult.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\webapp\\webapplication6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|solutionrelative:webapp\\webapplication6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E253566F-434C-4273-850E-373D7CF46B02}|WebApp\\WebApplication6\\WebApplication6.csproj|d:\\desktop\\\u043A\u0430\u0438\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0442\u043F\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043C\u043E\u0451\\\u043A\u043E\u0434\\login\\webapp\\webapplication6\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\User.cs",
+              "RelativeDocumentMoniker": "Kursovoy\\User.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Kursovoy\\User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:52.701Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\Form1.cs",
+              "RelativeDocumentMoniker": "Kursovoy\\Form1.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Kursovoy\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:49.257Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\Admin.cs",
+              "RelativeDocumentMoniker": "Kursovoy\\Admin.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Kursovoy\\Admin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:44.254Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\App.config",
+              "RelativeDocumentMoniker": "Kursovoy\\App.config",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Kursovoy\\App.config",
+              "RelativeToolTip": "Kursovoy\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-28T11:32:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Object\\Interface.cs",
+              "RelativeDocumentMoniker": "Object\\Interface.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Object\\Interface.cs",
+              "RelativeToolTip": "Object\\Interface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Object\\Class1.cs",
+              "RelativeDocumentMoniker": "Object\\Class1.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\Object\\Class1.cs",
+              "RelativeToolTip": "Object\\Class1.cs",
+              "ViewState": "AQIAADIBAAAAAAAAAAAAAKsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:32:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Deafult.aspx.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx.cs",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\Deafult.aspx.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx.cs",
+              "RelativeToolTip": "WebApp\\WebApplication6\\Deafult.aspx.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAqwDwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:05:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\packages.config",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\packages.config",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\packages.config",
+              "RelativeToolTip": "WebApp\\WebApplication6\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T19:04:54.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication6",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\WebApplication6.csproj",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\WebApplication6.csproj",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\WebApplication6.csproj",
+              "RelativeToolTip": "WebApp\\WebApplication6\\WebApplication6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-27T19:04:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Deafult.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\Deafult.aspx.designer.cs",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx.designer.cs",
+              "RelativeToolTip": "WebApp\\WebApplication6\\Deafult.aspx.designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:04:56.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Deafult.aspx",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\Deafult.aspx",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Deafult.aspx",
+              "RelativeToolTip": "WebApp\\WebApplication6\\Deafult.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-27T19:04:38.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Web.config",
+              "RelativeDocumentMoniker": "WebApp\\WebApplication6\\Web.config",
+              "ToolTip": "D:\\Desktop\\\u041A\u0410\u0418\\3 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0430\u043A\\\u0422\u041F\\\u041A\u0443\u0440\u0441\u0430\u0447\\\u041C\u043E\u0451\\\u041A\u043E\u0434\\Login\\WebApp\\WebApplication6\\Web.config",
+              "RelativeToolTip": "WebApp\\WebApplication6\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-27T19:04:36.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
